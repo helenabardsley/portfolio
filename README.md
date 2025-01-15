@@ -1,4 +1,7 @@
-# Graduate Student
+# Data Analyst
+
+### Technical Skills: 
+R, Python, SQL
 
 ### Education
 #### Columbia University
@@ -19,3 +22,8 @@ Data Analyst
 Research Assistant
 
 ### Projects
+Peloton
+
+Zara
+
+Predicting CTR
