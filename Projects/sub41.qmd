@@ -1,0 +1,111 @@
+---
+title: "sub41"
+format: html
+---
+```{r}
+library(data.table)
+library(caret)
+library(xgboost)
+library(caTools)
+library(dplyr)
+library(vtreat)
+
+
+analysis_data <- fread('/Users/helenabardsley/Desktop/Columbia/FALL 24/5200/PAC/analysis_data.csv')
+scoring_data <- fread('/Users/helenabardsley/Desktop/Columbia/FALL 24/5200/PAC/scoring_data.csv')
+
+target <- "CTR"
+vars <- setdiff(names(analysis_data), c("id", target))
+
+set.seed(617) 
+
+preprocess <- preProcess(analysis_data[, vars, with = FALSE], method = c('medianImpute'))
+analysis_data_imputed <- predict(preprocess, analysis_data)
+scoring_data_imputed <- predict(preprocess, scoring_data)
+
+
+categorical_cols <- names(analysis_data_imputed)[sapply(analysis_data_imputed, is.character)]
+for (col in categorical_cols) {
+  analysis_data_imputed[[col]][is.na(analysis_data_imputed[[col]])] <- "missing"
+  scoring_data_imputed[[col]][is.na(scoring_data_imputed[[col]])] <- "missing"
+}
+
+
+train_encoded <- model.matrix(~ . - 1, data = analysis_data_imputed[, categorical_cols, drop = FALSE])
+scoring_encoded <- model.matrix(~ . - 1, data = scoring_data_imputed[, categorical_cols, drop = FALSE])
+
+
+train_encoded <- as.data.frame(train_encoded)
+scoring_encoded <- as.data.frame(scoring_encoded)
+
+
+all_cols <- union(names(train_encoded), names(scoring_encoded))
+for (col in all_cols) {
+  if (!(col %in% names(train_encoded))) {
+    train_encoded[[col]] <- 0
+  }
+  if (!(col %in% names(scoring_encoded))) {
+    scoring_encoded[[col]] <- 0
+  }
+}
+
+
+train_encoded <- train_encoded[, all_cols]
+scoring_encoded <- scoring_encoded[, all_cols]
+
+
+numeric_cols <- intersect(names(analysis_data_imputed)[sapply(analysis_data_imputed, is.numeric)], names(scoring_data_imputed))
+train_treated <- cbind(analysis_data_imputed[, numeric_cols, drop = FALSE], train_encoded)
+scoring_treated <- cbind(scoring_data_imputed[, numeric_cols, drop = FALSE], scoring_encoded)
+
+
+train_treated$CTR <- as.numeric(analysis_data_imputed$CTR)
+
+
+set.seed(87)
+split <- sample.split(train_treated$CTR, SplitRatio = 0.8)
+training_data <- subset(train_treated, split == TRUE)
+testing_data <- subset(train_treated, split == FALSE)
+
+
+X_train <- as.matrix(training_data |> 
+                       select(-CTR))
+y_train <- training_data$CTR
+X_test <- as.matrix(testing_data |> 
+                      select(-CTR))
+y_test <- testing_data$CTR
+
+set.seed(31)
+
+param_grid <- expand.grid(
+  nrounds = c(100, 200),
+  max_depth = c(3, 5),
+  eta = c(0.01, 0.1),
+  gamma = 0,
+  colsample_bytree = c(0.7, 1),
+  min_child_weight = 1,
+  subsample = c(0.7, 1)
+)
+
+train_control <- trainControl(method = "cv", number = 5)
+
+xgb_model <- train(
+  x = X_train,
+  y = y_train,
+  method = "xgbTree",
+  trControl = train_control,
+  tuneGrid = param_grid,
+  metric = "RMSE",
+  verbose = FALSE
+)
+
+
+scoring_features <- as.matrix(scoring_treated)
+scoring_predictions <- predict(xgb_model, newdata = scoring_features)
+
+
+submission_file41 <- data.table(id = scoring_data$id, CTR = scoring_predictions)
+write.csv(submission_file41, 'submission41.csv', row.names = FALSE)
+
+
+```
