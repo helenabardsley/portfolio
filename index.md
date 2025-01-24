@@ -19,6 +19,11 @@
 <center><img src="images/ames-house-price.jpg"/></center>
 <br>
 
+---
+## Data Visualization
+---
+### Tableau Assignments...
+---
 ### Technical Skills: 
 R, Python, SQL
 
