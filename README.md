@@ -7,7 +7,7 @@
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/ames-house-price.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/kaggle-house-price/blob/master/ames-house-price.ipynb)
 
-<div style="text-align: justify">I performed comprehensive ??? to understand important variables, handled missing values, outliers, performed feature engineering, and ensembled machine learning models to predict CTR, all while not overfitting the model. My best model had ?? (RMSE) of 0.06186, ranking <b>37/400</b>, approximately <b>top 10%</b> in the Kaggle leaderboard.</div>
+<div style="text-align: justify">I performed comprehensive exploratory data analysis to understand important variables, handled missing values, outliers, performed feature engineering, and ensembled machine learning models to predict CTR, all while not overfitting my predictive model. My best model had a Residual Mean Squared Error (RMSE) of 0.06186, ranking <b>37/400</b>, approximately <b>top 10%</b> in the Kaggle leaderboard.</div>
 <br>
 <center><img src="images/ames-house-price.jpg"/></center>
 <br>
