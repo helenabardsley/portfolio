@@ -9,7 +9,7 @@
   <p>[Skills](https://github.com/helenabardsley/portfolio/blob/main/index.md#skills)</p>
 
 </details>
----
+
 
 ## About Me
 ---
