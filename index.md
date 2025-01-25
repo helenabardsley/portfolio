@@ -82,7 +82,19 @@ Minor, Bioethics
 ## Skills
 ---
 ### Technical Skills
-R, Python, SQL
+Data Analysis and Insights
+- R, SQL, and Python to uncover trends for strategic decision making
+Data Visualization
+- Create dashboards using Tableau
+Predictive Analysis
+- Apply regressions, clustering, stepwise modeling to forecast trends and outcomes
+Risk Analysis
+- Excel for modeling and assessing risks to inform business strategies
+
+### Non-Technical Skills
+Strategic Thinking
+Collaboration
+- Multiple group projects...
 
 ### Certifications
 
