@@ -112,7 +112,9 @@ Collaboration
 ### Certifications
 
 #### SQL Essential Training (LinkedIn, September 18th, 2024)
-
+<br>
+<center><img src="images/SQL.png"/></center>
+<br>
 
 #### Case Study: Exploratory Data Analysis in R (DataCamp, September 4th, 2024)
 [![Certificate](https://img.shields.io/badge/GitHub-Certificate-blue?logo=DataCamp)](https://www.datacamp.com/statement-of-accomplishment/course/536bdc4afb20fcb6ab5d55e23e4d97962a13e4cf?raw=1)
