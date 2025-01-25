@@ -10,7 +10,7 @@
 <br>
 <center><img src="images/Graduation.jpg"/></center>
 <br>
-<div style="text-align: justify"> As you read through my portfolio, I hope you begin to understand me, and how my experiences have shaped my interests, beyond just my resume. </div>
+<div style="text-align: justify"> As you read through my portfolio, I hope you begin to understand me, and how my experiences have shaped my interests, beyond just my resume. I want a career where I can make my mark with a positive impact on the world with data. </div>
 
 
 ---
