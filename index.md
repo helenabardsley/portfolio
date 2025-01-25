@@ -26,10 +26,11 @@
 <br>
 
 ### Peloton's Post-Pandemic Pivot: A Strategic Analysis of Growth, Retention, and Market Position
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](Projects/Peloton.twbx)
+[![View on Tableau](https://img.shields.io/badge/GitHub-View_on_Tableau-blue?logo=Tableau)](Projects/Peloton.twbx)
+[![View on Microsoft Powerpoint](https://img.shields.io/badge/GitHub-View_on_Powerpoint-blue?logo=Powerpoint)](Projects/Peloton.pptx)
 <div style="text-align: justify"> Since the COVID-19 pandemic, Peloton has seen a tremendous drop in their annual revenue. Working with a team, we leveraged competitor analysis, customer analysis, and market insights to identify growth oppertunities for Peloton in these post-pandemic times. We made an interactive tableau story to effectively present our project. </div>
 <br>
-<center><img src="images/Kaggle_logo.png"/></center>
+<center><img src="images/Peloton.png"/></center>
 <br>
 
 ---
