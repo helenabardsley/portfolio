@@ -45,7 +45,7 @@
 <br>
 
 ### The Impact of Live-Stream Shopping on Large Fashion Brands: A Case Study at Zara
-<div style="text-align: justify"> Small fashion businesses on the TikTok shop have seen a lot of success using live-stream shopping due to the ease and convenience of using TikTok's platform to make an in-app purchase and enabling viewers to engage with the business in real-time to ask any questions or make comments. On the other hand, Zara, while a hugely successful company, has had their website's user interface (UI) criticized in the media for its poor usability, lack of navigational aids, and confusing layout. My group and I designed multiple simulation studies in R to evaluate the impact live-stream shopping could have for a larger company, like Zara, by defining success metrics and uncovering strategies to boost customer engagement and willingness to shop online. </div>
+<div style="text-align: justify"> Small fashion businesses on the TikTok shop have seen a lot of success using live-stream shopping due to the ease and convenience of using TikTok's platform to make an in-app purchase and enabling viewers to engage with the business in real-time to ask any questions or make comments. On the other hand, Zara, while a hugely successful company, has had their website's user interface (UI) criticized in the media for its poor usability, lack of navigational aids, and confusing layout. My group and I designed a study, which involved running multiple <b>simulation studies</b> in <b>R</b>, to evaluate the impact live-stream shopping could have for a larger company, like Zara, by defining success metrics and uncovering strategies to boost customer engagement and willingness to shop online. </div>
 <br>
 <center><img src="images/Zara.png"/></center>
 <br>
@@ -56,7 +56,7 @@
 ---
 ### Visualizing Data on Maps in Tableau
 [![View on Tableau](https://img.shields.io/badge/GitHub-View_on_Tableau-blue?logo=Tableau)](Projects/Visualizing_Data_Maps.twbx)
-<div style="text-align: justify">Using Tableau dashboards, I visualized child poverty rates across the United States for every 5 years between 2007 and 2022. Not only did I learn how to visualize multiple layers and dimensions of data on a geographical map, but I also learned the importance color has on conveying your message and making your visualization easy to comprehend. </div>
+<div style="text-align: justify">Using <b>Tableau</b> dashboards, I visualized child poverty rates across the United States for every 5 years between 2007 and 2022. Not only did I learn how to visualize multiple layers and dimensions of data on a geographical map, but I also learned the importance color has on conveying your message and making your visualization easy to comprehend. </div>
 <br>
 <img src="images/Child_Pov_Rates_ 1.png"/>
 <img src="images/Child_Pov_Rates_2.png"/>
@@ -69,7 +69,7 @@
 M.S., Applied Analytics
 - GPA: 4.0
 
-Relevant Coursework: 
+<b>Relevant Coursework:</b>
 
 
 ### University of Rochester
