@@ -25,6 +25,9 @@
 <center><img src="images/Kaggle_logo.png"/></center>
 <br>
 
+### Peloton's Post-Pandemic Pivot: A Strategic Analysis of Growth, Retention, and Market Position
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](Projects/Peloton.twbx)
+<div style="text-align: justify"> U
 ---
 ## Dashboards
 ---
