@@ -112,13 +112,17 @@ Collaboration
 ### Certifications
 
 #### SQL Essential Training (LinkedIn, September 18th, 2024)
+<div style="text-align: justify"> I took this course because I had not yet had any coursework pertaining to <b>SQL</b>, but I knew it was a very prevelant coding language used in a variety of companies. In this course, I learned the <b>basic structure of databases</b>, how to retrieve and understand the data, and mastered important <b>SQL queries</b> </div>
 <br>
 <center><img src="images/SQL.png"/></center>
 <br>
 
+
+
 #### Case Study: Exploratory Data Analysis in R (DataCamp, September 4th, 2024)
 [![Certificate](https://img.shields.io/badge/GitHub-Certificate-blue?logo=DataCamp)](https://www.datacamp.com/statement-of-accomplishment/course/536bdc4afb20fcb6ab5d55e23e4d97962a13e4cf?raw=1)
-I was able to use the tools for data manipulation and data visualization that I learned in previous courses to a real dataset. I gained more practice and understanding of the <b>dplyr</b> and <b>ggplot2</b> packages in R, as well as learned about the <b>broom</b> package for tidying model output. This gave me a true understanding of what a start to finish exploratory analysis in data science is like.
+<div style="text-align: justify">I was able to use the tools for data manipulation and data visualization that I learned in previous courses to a real dataset. I gained more practice and understanding of the <b>dplyr</b> and <b>ggplot2</b> packages in R, as well as learned about the <b>broom</b> package for tidying model output. This gave me a true understanding of what a start to finish exploratory analysis in data science is like.</div>
+
 
 
 
@@ -127,9 +131,11 @@ I was able to use the tools for data manipulation and data visualization that I 
 <div style="text-align: justify">In this course about data visualization in <b>R</b>, I was introduced to the principles of good visualizations and the grammar of graphic plotting concepts in the ggplot2 package. From this course, I learned how to make <b>complex exploratory plots</b></div>
 
 
+
 #### Data Manipulation with dplyr (DataCamp, August 31st, 2024)
 [![Certificate](https://img.shields.io/badge/GitHub-Certificate-blue?logo=DataCamp)](https://www.datacamp.com/statement-of-accomplishment/course/ff8a655675f2b18e0de994c4732007fc4d796f37?raw=1)
 Using library <b>dplyr</b> in <b>R</b>, I learned how to transform and aggregrate my data, as well as how to add, remove, or change variables. I then applied the knowledge I learned to two different case studies, one exploring a dataset regarding counties in the USA, and the other applying tools I learned to a babynames dataset to explore trends of baby names in the USA.
+
 
 
 #### Introduction to Importing Data in R (DataCamp, August 28th, 2024)
@@ -137,9 +143,11 @@ Using library <b>dplyr</b> in <b>R</b>, I learned how to transform and aggregrat
 This course taught me how to import a variety of data formats into <b>R</b>, and how to approach analysis based on the format of data.
 
 
+
 #### Introduction to Statistics in R (DataCamp, August 27th, 2024)
 [![Certificate](https://img.shields.io/badge/GitHub-Certificate-blue?logo=DataCamp)](https://www.datacamp.com/statement-of-accomplishment/course/5764a8bb5ea40f1b0455f99998265231dfc87b3c?raw=1)
 This course used a sales data case study where I was able to develop skills on how to calculate averages, use and create scatterplots between two numeric variables, and calculate correlation in <b>R</b>.
+
 
 
 #### Introduction to R (DataCamp, August 9th, 2024)
