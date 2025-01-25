@@ -110,10 +110,9 @@ Collaboration
 - Multiple group projects...
 
 ### Certifications
-#### Introduction to Data Visualization with ggplot2
+#### DataCamp: Introduction to Data Visualization with ggplot2 (September 02 2024)
 [![Certificate](https://img.shields.io/badge/GitHub-Certificate-blue?logo=DataCamp)](https://www.datacamp.com/statement-of-accomplishment/course/0d6d0de64baf2be5cb15298f1a7ca6bf3e090df4?raw=1)
-<div style="text-align: justify"> Issued September 2024 by DataCamp </div>
-- In this course about data visualization in <b>R</b>, I was introduced to the principles of good visualizations and the grammar of graphic plotting concepts in the ggplot2 package. From this course, I learned how to make <b>complex exploratory plots</b>
+<div style="text-align: justify">In this course about data visualization in <b>R</b>, I was introduced to the principles of good visualizations and the grammar of graphic plotting concepts in the ggplot2 package. From this course, I learned how to make <b>complex exploratory plots</b></div>
 
 
 ### Work Experience
