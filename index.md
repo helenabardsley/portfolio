@@ -1,8 +1,8 @@
 <details>
 
-  <summary>Dropdown Title</summary>
+  <summary>Menu</summary>
 
-  <p>This is the content that will appear when the dropdown is clicked.</p>
+  <p>[About](https://github.com/helenabardsley/portfolio/blob/main/index.md#about).</p>
 
 </details>
 
