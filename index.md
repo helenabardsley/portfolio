@@ -3,7 +3,7 @@
 <details>
 
   <summary>Table of Contents</summary>
-  <a href="https://github.com/helenabardsley/portfolio/blob/main/index.md#about">About</a> 
+  <a href="https://github.com/helenabardsley/portfolio/blob/main/index.md#about">About Me</a> 
 
   <p>About Me [(https://github.com/helenabardsley/portfolio/blob/main/index.md#about)]</p>
   <p>[Projects](https://github.com/helenabardsley/portfolio/blob/main/index.md#projects)</p>
