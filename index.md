@@ -31,7 +31,7 @@
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](Projects/PAC%20Project%20Report.html)
 
 
-<div style="text-align: justify">Using R, I performed comprehensive exploratory data analysis to understand important variables, handled missing values, outliers, performed feature engineering, and ensembled machine learning models to predict CTR, all while not overfitting my predictive model. After testing a variety of different techniques, my best model used XGBoost and had a Residual Mean Squared Error (RMSE) of 0.06186, and out of all of my classmates in my program, I ranked <b>37/400</b>, which is approximately <b>top 10%</b> in the Kaggle leaderboard.</div>
+<div style="text-align: justify">Using R, I performed comprehensive <b>exploratory data analysis</b> to understand important variables, handled missing values, outliers, performed feature engineering, and ensembled machine learning models to predict CTR, all while not overfitting my predictive model. After testing a variety of different techniques, my best model used XGBoost and had a Residual Mean Squared Error (RMSE) of 0.06186, and out of all of my classmates in my program, I ranked <b>37/400</b>, which is approximately <b>top 10%</b> in the Kaggle leaderboard.</div>
 <br>
 <center><img src="images/Kaggle_logo.png"/></center>
 <br>
