@@ -31,7 +31,8 @@
 ### Child Poverty Rates
 <div style="text-align: justify">Used Tableau to visualize multiple layers and dimensions of data on a geographical map. </div>
 <br>
-<img src="images/Child_Pov_Rates_1.png"/><img src="images/Child_Pov_Rates_2.png"/>
+<img src="images/Child_Pov_Rates_ 1.png"/>
+<img src="images/Child_Pov_Rates_2.png"/>
 <br>
 ---
 ### Technical Skills: 
