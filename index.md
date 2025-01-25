@@ -111,9 +111,3 @@ Data Analyst
 - project 1
 Research Assistant
 
-### Projects
-Peloton
-
-Zara
-
-Predicting CTR
