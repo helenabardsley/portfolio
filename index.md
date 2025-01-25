@@ -33,6 +33,11 @@
 <center><img src="images/Peloton.png"/></center>
 <br>
 
+### The Impact of Live-Stream Shopping on Large Fashion Brands: A Case Study at Zara
+<div style="text-align: justify"> Small fashion businesses on the TikTok shop have seen a lot of success using live-stream shopping due to the ease and convenience of using TikTok's platform to make an in-app purchase and enabling viewers to engage with the business in real-time to ask any questions or make comments. On the other hand, Zara, while a hugely successful company, has had their website's user interface (UI) criticized in the media for its poor usability, lack of navigational aids, and confusing layout. My group and I designed multiple simulation studies in R to evaluate the impact live-stream shopping could have for a larger company, like Zara, by defining success metrics and uncovering strategies to boost customer engagement and willingness to shop online. </div>
+<br>
+<center><img src="images/Zara.png"/></center>
+<br>
 ---
 ## Dashboards
 ---
