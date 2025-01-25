@@ -14,7 +14,8 @@
 
 ## Table of Contents
 - [About](https://github.com/helenabardsley/portfolio/blob/main/index.md#about)
-
+- [Projects](https://github.com/helenabardsley/portfolio/blob/main/index.md#projects)
+- [Skills](https://github.com/helenabardsley/portfolio/blob/main/index.md#skills)
   
 ---
 ## Projects
@@ -53,8 +54,10 @@
 <img src="images/Child_Pov_Rates_ 1.png"/>
 <img src="images/Child_Pov_Rates_2.png"/>
 <br>
+
+
 ---
-### Technical Skills: 
+### Skills: 
 R, Python, SQL
 
 ### Education
