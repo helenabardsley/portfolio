@@ -29,7 +29,7 @@
 ## Dashboards
 ---
 ### Visualizing Data on Maps in Tableau
-<div style="text-align: justify">Using Tableau dashboards, I visualized child poverty rates across the United States for every 5 years between 2007 and 2022. I learned how to visualize multiple layers and dimensions of data on a geographical map. </div>
+<div style="text-align: justify">Using Tableau dashboards, I visualized child poverty rates across the United States for every 5 years between 2007 and 2022. Not only did I learn how to visualize multiple layers and dimensions of data on a geographical map, but I also learned the importance color has on conveying your message and making your visualization easy to comprehend. </div>
 <br>
 <img src="images/Child_Pov_Rates_ 1.png"/>
 <img src="images/Child_Pov_Rates_2.png"/>
