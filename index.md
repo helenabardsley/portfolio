@@ -10,6 +10,7 @@
 </details>
 
 
+---
 ## About Me
 ---
 <div style="text-align: justify"> Hi, I'm Helena, a <b>data-driven storyteller</b> who enjoys visualizing complex insights to reveal the bigger picture, and translating them into actionable strategies. </div> 
