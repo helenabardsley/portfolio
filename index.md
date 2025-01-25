@@ -2,7 +2,7 @@
 # Portfolio
 <details>
 
-  <summary>Menu</summary>
+  <summary>Table of Contents</summary>
 
   <p>About Me [(https://github.com/helenabardsley/portfolio/blob/main/index.md#about)]</p>
   <p>[Projects](https://github.com/helenabardsley/portfolio/blob/main/index.md#projects)</p>
