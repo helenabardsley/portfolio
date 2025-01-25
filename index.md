@@ -27,12 +27,16 @@
 
 ### Peloton's Post-Pandemic Pivot: A Strategic Analysis of Growth, Retention, and Market Position
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](Projects/Peloton.twbx)
-<div style="text-align: justify"> U
+<div style="text-align: justify"> Since the COVID-19 pandemic, Peloton has seen a tremendous drop in their annual revenue. Working with a team, we leveraged competitor analysis, customer analysis, and market insights to identify growth oppertunities for Peloton in these post-pandemic times. We made an interactive tableau story to effectively present our project. </div>
+<br>
+<center><img src="images/Kaggle_logo.png"/></center>
+<br>
+
 ---
 ## Dashboards
 ---
 ### Visualizing Data on Maps in Tableau
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](Projects/Visualizing_Data_Maps.twbx)
+[![View on Tableau](https://img.shields.io/badge/GitHub-View_on_Tableau-blue?logo=Tableau)](Projects/Visualizing_Data_Maps.twbx)
 <div style="text-align: justify">Using Tableau dashboards, I visualized child poverty rates across the United States for every 5 years between 2007 and 2022. Not only did I learn how to visualize multiple layers and dimensions of data on a geographical map, but I also learned the importance color has on conveying your message and making your visualization easy to comprehend. </div>
 <br>
 <img src="images/Child_Pov_Rates_ 1.png"/>
