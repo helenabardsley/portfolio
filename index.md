@@ -146,7 +146,7 @@ This course refreshed me on the basics of R, including vectors, factors, lists, 
 
 
 
-
+---
 ### Work Experience
 Data Analyst
 - project 1
