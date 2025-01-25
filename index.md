@@ -2,7 +2,7 @@
 ---
 ## About Me
 ---
-<div style="text-align: justify"> Hi, I'm Helena, a data-driven storyteller who enjoys visualizing complex insights to reveal the bigger picture, and translating them into actionable strategies. </div> 
+<div style="text-align: justify"> Hi, I'm Helena, a <b>data-driven storyteller</b> who enjoys visualizing complex insights to reveal the bigger picture, and translating them into actionable strategies. </div> 
 <br>
 <div style="text-align: justify"> I realized how transformative data can be a couple of years ago, when my parents were moving and my mom unearthed a box containing a mountain of data, all about me. I found myself pouring over everything from developmental assessments to IQ tests, standardized test results to head circumference monitoring. My speech and large skull had produced years of data, while annual school district testing compared my progress to peers from both my school and across the state, using an array of visualization tools. I have always enjoyed statistics and dealing with data in my classes and research, but seeing analysis about my own development, most of it from a time I don’t remember, was especially fascinating and insightful and it has helped me understand myself better. The realization that data provides insight for arguably everything, including the projection of my own development, fueled my passion for data-driven research. </div>
 <br>
