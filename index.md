@@ -6,11 +6,11 @@
 <br>
 <div style="text-align: justify"> I realized how transformative data can be a couple of years ago, when my parents were moving and my mom unearthed a box containing a mountain of data, all about me. I found myself pouring over everything from developmental assessments to IQ tests, standardized test results to head circumference monitoring. My speech and large skull had produced years of data, while annual school district testing compared my progress to peers from both my school and across the state, using an array of visualization tools. I have always enjoyed statistics and dealing with data in my classes and research, but seeing analysis about my own development, most of it from a time I don’t remember, was especially fascinating and insightful and it has helped me understand myself better. The realization that data provides insight for arguably everything, including the projection of my own development, fueled my passion for data-driven research. </div>
 <br>
-<div style="text-align: justify"> My choice to double major in Brain and Cognitive Sciences (BS) and Psychology (BA), with a minor in Bioethics, was made to allow me to explore human decision making. Through the courses I have taken and the research experience I was fortnuate enough to partake in, this field, is something that continues to interest me, and is something I hope to combine with data analysis as a career. </div>
+<div style="text-align: justify"> My choice to double major in Brain and Cognitive Sciences (BS) and Psychology (BA), with a minor in Bioethics, was made to allow me to explore human decision making. Through the courses I have taken and the research experience I was fortnuate enough to partake in, this field, is something that continues to interest me and is something I hope to combine with data analysis as a career. </div>
 <br>
 <center><img src="images/Graduation.jpg"/></center>
 <br>
-
+<div style="text-align: justify"> As you read through my portfolio, I hope you begin to understand me, and how my experiences have shaped my interests, beyond just my resume. 
 ---
 ## Data Science
 ---
