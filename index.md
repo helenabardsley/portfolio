@@ -14,7 +14,7 @@
 
 
 ---
-## Data Science
+## Projects
 ---
 ### Kaggle Competition: Predict Click-Through Rate (CTR) using Lasso, Ridge, XGBoost and LightGBM
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](Projects/PAC%20Project%20Report.html)
@@ -26,7 +26,7 @@
 <br>
 
 ---
-## Data Visualization
+## Dashboards
 ---
 ### Tableau Assignments...
 ---
