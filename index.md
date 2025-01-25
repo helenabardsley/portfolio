@@ -69,7 +69,7 @@
 M.S., Applied Analytics
 - GPA: 4.0
 
-<b>Relevant Coursework:</b>
+<b>Relevant Coursework:</b> 
 
 
 ### University of Rochester
@@ -81,7 +81,7 @@ Minor, Bioethics
 - GPA: 3.8
 
 
-Relevant Coursework: 
+<b>Relevant Coursework:</b> 
 
 
 ---
@@ -89,11 +89,12 @@ Relevant Coursework:
 ---
 ### Technical Skills
 Data Analysis and Insights
-- R, SQL, and Python to uncover trends for strategic decision making
+- <b>R, SQL,</b> and <b>Python</b> to uncover trends for strategic decision making
+- <b>MATLAB</b>...
 
 
 Data Visualization
-- Create dashboards using Tableau
+- Create dashboards using <b>Tableau</b>
 
 
 Predictive Analysis
@@ -101,7 +102,7 @@ Predictive Analysis
 
 
 Risk Analysis
-- Excel for modeling and assessing risks to inform business strategies
+- <b>Excel</b> for modeling and assessing risks to inform business strategies
 
 ### Non-Technical Skills
 Strategic Thinking
