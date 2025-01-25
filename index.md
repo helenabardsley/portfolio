@@ -23,11 +23,7 @@
 <br>
 <div style="text-align: justify"> As you read through my portfolio, I hope you begin to understand me, and how my experiences have shaped my interests, beyond just my resume. I want a career where I can make my mark with a positive impact on the world with data. </div>
 
-## Table of Contents
-- [About](https://github.com/helenabardsley/portfolio/blob/main/index.md#about)
-- [Projects](https://github.com/helenabardsley/portfolio/blob/main/index.md#projects)
-- [Skills](https://github.com/helenabardsley/portfolio/blob/main/index.md#skills)
-  
+
 ---
 ## Projects
 ---
@@ -68,8 +64,12 @@
 
 
 ---
-### Skills: 
+## Skills
+---
+### Technical Skills
 R, Python, SQL
+
+### Certifications
 
 ### Education
 #### Columbia University
