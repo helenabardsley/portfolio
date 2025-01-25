@@ -1,3 +1,12 @@
+<details>
+
+  <summary>Dropdown Title</summary>
+
+  <p>This is the content that will appear when the dropdown is clicked.</p>
+
+</details>
+
+
 # Portfolio
 ---
 ## About Me
