@@ -123,7 +123,7 @@ Collaboration
 [![Certificate](https://img.shields.io/badge/GitHub-Certificate-blue?logo=DataCamp)](https://www.datacamp.com/statement-of-accomplishment/course/536bdc4afb20fcb6ab5d55e23e4d97962a13e4cf?raw=1)
 <div style="text-align: justify">I was able to use the tools for data manipulation and data visualization that I learned in previous courses to a real dataset. I gained more practice and understanding of the <b>dplyr</b> and <b>ggplot2</b> packages in R, as well as learned about the <b>broom</b> package for tidying model output. This gave me a true understanding of what a start to finish exploratory analysis in data science is like.</div>
 <br>
-<center><img src="images/case_study.pdf"/></center>
+<center><img src="images/case_study.png"/></center>
 <br>
 
 
