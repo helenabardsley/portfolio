@@ -51,7 +51,7 @@
 <br>
 
 
-### Neurolinguistics...
+### Multilingual Differences in Speech Perception and Word Learning
 <div style="text-align: justify"> During the summer of 2023, I worked with my Principal Investigator and 3 time former professor, Dr. Yang, on a project exploring speech perception and word learning differences among multilingual participants. My primary responsibilities included fitting participants with EEG caps to monitor brain activity during speech perception tests, and <b>processed the data</b> using <b>MATLAB</b>. Specifically, I <b>filtered</b> out irrelevant signals from the EEG data to isolate relevant brain signals and identified and removed artifact-ridden epochs, ensuring the accuracy and reliability of our data. Additionally, I conducted independent component analysis to separate and analyze the brain activity components further. </div>
 <br>
 <center><img src="images/yanglab.png"/></center>
