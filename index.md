@@ -88,7 +88,8 @@
 <br>
 <center><img src="images/keanelab.png"/></center>
 <br>
-
+<div style="text-align: justify"><u>Quick Overview:</u> Used <b>Python</b> for <b>data preprocessing</b> and <b>R</b> for <b>statistical analysis</b> and <b>data visualization</b>. Presented the study's research design, results from statistical testing, and recommendations for future research by emphasizing ways to improve the study's robustness. </div>
+<br>
 
 
 ---
