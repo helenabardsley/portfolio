@@ -55,9 +55,9 @@
 <br>
 <div style="text-align: justify">We designed a randomized experimental study with 400 U.S. based Zara customers, divided into control and live-stream intervention groups. Our key metrics were sales profit, click-through rates (CTR), and purchase volume. Using R, I conducted simulation studies based on thoroughly researched effect sizes to explore no effect and expected effect scenarios. ANOVA, two-sample t-tests, and proportion tests were applied. There were 1,000 simulations per scenario, and for each scenario, we estimated true effects, calculated confidence intervals, and assessed the likelihood of false positives and negatives. Our simulations provided valuable insights and a foundation for future implementation. With our proposed effect sizes, our findings suggest live-stream shopping could enhance customer engagement and purchasing decisions. </div>
 <br>
-<div style="text-align: justify"><u>Quick Overview:</u> <b>Designed a study</b> to evaluate the impact of implementing live-stream shopping at Zara, <b>defining success metrics</b> and uncovering strategies to boost customer engagement and online shopping frequency. </div>
-<br>
 <center><img src="images/Zara.png"/></center>
+<br>
+<div style="text-align: justify"><u>Quick Overview:</u> <b>Designed a study</b> to evaluate the impact of implementing live-stream shopping at Zara, <b>defining success metrics</b> and uncovering strategies to boost customer engagement and online shopping frequency. </div>
 <br>
 
 
