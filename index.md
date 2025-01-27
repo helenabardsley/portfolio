@@ -3,9 +3,9 @@
 <details>
 
   <summary>Table of Contents</summary>
-  <a href="https://github.com/helenabardsley/portfolio/#about">About Me</a>
-  <a href="https://github.com/helenabardsley/portfolio/blob/main/index.md#projects">Projects</a>
-  <a href="https://github.com/helenabardsley/portfolio/blob/main/index.md#skills">Skills</a>
+  <a href="https://github.com/helenabardsley/portfolio/##about">About Me</a>
+  <a href="https://github.com/helenabardsley/portfolio/blob/main/index.md##projects">Projects</a>
+  <a href="https://github.com/helenabardsley/portfolio/blob/main/index.md##skills">Skills</a>
 
 </details>
 
