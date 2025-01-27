@@ -90,6 +90,13 @@ M.S., Applied Analytics
 - GPA: 4.0
 
 <b>Relevant Coursework:</b> 
+- Applied Analytics in an Organizational Context: Excel...
+- Research Design: Learned designing studies, simulation studies, different statistics concepts...
+- Storytelling with Data: Data visualization tableau...
+- Applied Analytics Frameworks & Methods I and II: In the first course of this series, I learned R... Now learning Python...
+- Strategy and Analytics:
+- Managing Data:
+- AI User Interfaces for Analytics: Java..
 
 
 ### University of Rochester
