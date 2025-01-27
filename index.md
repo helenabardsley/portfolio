@@ -136,7 +136,10 @@ Collaboration
 
 #### Data Manipulation with dplyr (DataCamp, August 31st, 2024)
 [![Certificate](https://img.shields.io/badge/GitHub-Certificate-blue?logo=DataCamp)](https://www.datacamp.com/statement-of-accomplishment/course/ff8a655675f2b18e0de994c4732007fc4d796f37?raw=1)
-Using library <b>dplyr</b> in <b>R</b>, I learned how to transform and aggregrate my data, as well as how to add, remove, or change variables. I then applied the knowledge I learned to two different case studies, one exploring a dataset regarding counties in the USA, and the other applying tools I learned to a babynames dataset to explore trends of baby names in the USA.
+<div style="text-align: justify">Using library <b>dplyr</b> in <b>R</b>, I learned how to transform and aggregrate my data, as well as how to add, remove, or change variables. I then applied the knowledge I learned to two different case studies, one exploring a dataset regarding counties in the USA, and the other applying tools I learned to a babynames dataset to explore trends of baby names in the USA.</div>
+<br>
+<center><img src="images/dplyrman.png"/></center>
+<br>
 
 
 
