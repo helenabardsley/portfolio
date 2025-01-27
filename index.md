@@ -21,7 +21,8 @@
 <br>
 <center><img src="images/Graduation.jpg"/></center>
 <br>
-<div style="text-align: justify"> As you read through my portfolio, I hope you begin to understand me, and how my rather untraditional path of education makes me an excellent candidate for a data-related internship. I want a career where I can make my mark with a positive impact on the world with data. </div>
+<div style="text-align: justify"> As you read through my portfolio, I hope you begin to understand me, and how my rather untraditional path of education makes me an excellent candidate for a data-related internship or role. Currently, I am seeking out internships for Summer 2025 (and am also open to full time positions) at a company where I can make my mark with a positive impact on the world with data. </div>
+
 
 
 ---
