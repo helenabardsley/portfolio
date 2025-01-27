@@ -51,10 +51,10 @@
 <br>
 <div style="text-align: justify">This project deepened my expertise in using data analytics to solve complex business problems, with a strong focus on visualization, consumer behavior, and strategic decision-making. It also reinforced my passion for leveraging data to drive impactful solutions in fast-paced, consumer-focused industries.</div>
 <br>  
-  
-<div style="text-align: justify"><u>Quick Overview:</u> Since the COVID-19 pandemic, Peloton has seen a tremendous drop in their annual revenue. Working with a team, we leveraged <b>competitor analysis, customer analysis, </b> and <b>market insights</b> to identify growth oppertunities for Peloton in these post-pandemic times. We made an <b>interactive tableau storyboard</b> to effectively present our project. </div>
 <br>
 <center><img src="images/Peloton.png"/></center>
+<br>
+<div style="text-align: justify"><u>Quick Overview:</u> Since the COVID-19 pandemic, Peloton has seen a tremendous drop in their annual revenue. Working with a team, we leveraged <b>competitor analysis, customer analysis, </b> and <b>market insights</b> to identify growth oppertunities for Peloton in these post-pandemic times. We made an <b>interactive tableau storyboard</b> to effectively present our project. </div>
 <br>
 
 ### The Impact of Live-Stream Shopping on Large Fashion Brands: A Case Study at Zara
