@@ -23,7 +23,7 @@
 <br>
 <div style="text-align: justify"> Now, as a graduate student at Columbia University studying Applied Analytics (MS), I am learning how to combine my knowledge of human behavior with data analysis to derive meaningful insights and make accurate predictions. Beyond uncovering patterns, I love using data to look forward, to predict future trends and outcomes, and to guide decision-making. Data is such a powerful tool not just for understanding the how or the why, but also for improvement. My goal is to work for a company where I contribute to positive change by leveraging data insights to solve problems and shape a better future. </div>
 <br>
-<div style="text-align: justify"> As you read through my portfolio, I hope you begin to understand me, and how my rather untraditional path of education makes me an excellent candidate for a data-related internship or role. Currently, I am seeking out internships for Summer 2025 (and am also open to full time positions) at a company where I can make my mark with a positive impact on the world with data. </div>
+<div style="text-align: justify"> As you read through my portfolio, I hope you begin to understand me, and how my rather untraditional path of education makes me an excellent candidate for a data-related internship or role. Currently, I am seeking out internships for Summer 2025 (or full-time positions) at a company where I can apply my skills to <b>make a difference</b>. I am excited about any oppertunity to learn, contribute, and grow through data. </div>
 
 
 
