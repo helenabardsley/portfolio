@@ -43,7 +43,16 @@
 ### Peloton's Post-Pandemic Pivot: A Strategic Analysis of Growth, Retention, and Market Position
 [![View on Tableau](https://img.shields.io/badge/GitHub-View_on_Tableau-blue?logo=Tableau)](Projects/Peloton.twbx)
 [![View on Microsoft Powerpoint](https://img.shields.io/badge/GitHub-View_on_Powerpoint-blue?logo=Powerpoint)](images/Peloton.pptx)
-<div style="text-align: justify"> Since the COVID-19 pandemic, Peloton has seen a tremendous drop in their annual revenue. Working with a team, we leveraged <b>competitor analysis, customer analysis, </b> and <b>market insights</b> to identify growth oppertunities for Peloton in these post-pandemic times. We made an interactive tableau story to effectively present our project. </div>
+<div style="text-align: justify">In this project, my team and I conducted a strategic analysis of growth, retention, and market position for Peloton, investigating the factors leading to their company's decline in revenue post-COVID-19.</div>
+<br>
+<div style="text-align: justify">I used Tableau to design dashboards and visualizations, which I combined into a comprehensive storyboard. I conducted thorough research and performed my own calculations to find and analyze data on revenue trends, customer attrition, competitive positioning, and develop strategic recommendations. These visualizations highlighted key insights, including a misalignment between Peloton’s product offerings and their shifting consumer fitness preferences since the pandemic. The customer attrition analysis revealed emerging trends in the fitness industry, such as the shift to hybrid workout models and the growing popularity of strength training, which differs from Peloton’s current focus areas like cycling and rowing.</div>
+<br>
+<div style="text-align: justify">With my team, we presented strategic data-driven recommendations, including product diversification into strength-based programs, enhanced marketing for app-only subscriptions, and partnerships to expand Peloton’s reach. These strategies aimed to align Peloton’s offerings with consumer demands and improve long-term customer retention.</div>
+<br>
+<div style="text-align: justify">This project deepened my expertise in using data analytics to solve complex business problems, with a strong focus on visualization, consumer behavior, and strategic decision-making. It also reinforced my passion for leveraging data to drive impactful solutions in fast-paced, consumer-focused industries.</div>
+<br>  
+  
+<div style="text-align: justify"><u>Quick Overview:</u> Since the COVID-19 pandemic, Peloton has seen a tremendous drop in their annual revenue. Working with a team, we leveraged <b>competitor analysis, customer analysis, </b> and <b>market insights</b> to identify growth oppertunities for Peloton in these post-pandemic times. We made an <b>interactive tableau storyboard</b> to effectively present our project. </div>
 <br>
 <center><img src="images/Peloton.png"/></center>
 <br>
