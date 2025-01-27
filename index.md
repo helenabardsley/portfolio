@@ -52,7 +52,7 @@
 
 
 ### Visual Deficits in Schizophrenia Patients
-[![View on Project Website](https://img.shields.io/badge/GitHub-View_on_Tableau-blue?logo=Website)](https://www.urmc.rochester.edu/labs/keane)
+[![View on Project Website](https://img.shields.io/badge/GitHub-View_on_Website-blue?logo=Website)](https://www.urmc.rochester.edu/labs/keane)
 <div style="text-align: justify">I contributed to a research project investigating the role of eye movements alone in detecting schizophrenia. Under the guidance of my Principal Investigator (PI), who hypothesized that schizophrenic patients' visual perception deficits could lead to a new schizophrenia detection methodology, we reviewed existing scientific evidence on these deficits and developed a simple visual detection task to test this hypothesis. Our study included a variety of healthy, bipolar, and schizophrenic patients. To organize the data collected, I used <b>Python</b> to compile all of the data into one organized and comprehensive <b>Excel</b> spreadsheet. Then, in <b>R</b>, I read in the Excel file, conducted <b>ANOVA testing</b> to detect if there were significant differences between the three groups for timing and accuracy of the visual perception task, as well as created graphical displays of the data using the <b>ggplot2</b>package. At the end of my time at this lab, I used <b>Microsoft Powerpoint</b>to present my findings. Although no significant differences between groups were detected during my time in this lab, I was still able to contribute to gathering insights being used in the lab today from the data collected. **make this make sense** </div>
 <br>
 <center><img src="images/keanelab.png"/></center>
