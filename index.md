@@ -147,20 +147,26 @@ Collaboration
 
 #### Introduction to Importing Data in R (DataCamp, August 28th, 2024)
 [![Certificate](https://img.shields.io/badge/GitHub-Certificate-blue?logo=DataCamp)](https://www.datacamp.com/statement-of-accomplishment/course/433481b3a209f10491649e206f7ab74d54582cb5?raw=1)
-This course taught me how to import a variety of data formats into <b>R</b>, and how to approach analysis based on the format of data.
-
+<div style="text-align: justify">This course taught me how to import a variety of data formats into <b>R</b>, and how to approach analysis based on the format of data.</div>
+<br>
+<center><img src="images/importintro.png"/></center>
+<br>
 
 
 #### Introduction to Statistics in R (DataCamp, August 27th, 2024)
 [![Certificate](https://img.shields.io/badge/GitHub-Certificate-blue?logo=DataCamp)](https://www.datacamp.com/statement-of-accomplishment/course/5764a8bb5ea40f1b0455f99998265231dfc87b3c?raw=1)
-This course used a sales data case study where I was able to develop skills on how to calculate averages, use and create scatterplots between two numeric variables, and calculate correlation in <b>R</b>.
-
+<div style="text-align: justify">This course used a sales data case study where I was able to develop skills on how to calculate averages, use and create scatterplots between two numeric variables, and calculate correlation in <b>R</b>.</div>
+<br>
+<center><img src="images/statintro.png"/></center>
+<br>
 
 
 #### Introduction to R (DataCamp, August 9th, 2024)
 [![Certificate](https://img.shields.io/badge/GitHub-Certificate-blue?logo=DataCamp)](https://www.datacamp.com/statement-of-accomplishment/course/a9b224372f2676b6422aeb37450c7ecb4f3e97e5?raw=1)
-This course refreshed me on the basics of R, including vectors, factors, lists, and data frames.
-
+<div style="text-align: justify">This course refreshed me on the basics of R, including vectors, factors, lists, and data frames.</div>
+<br>
+<center><img src="images/rintro.png"/></center>
+<br>
 
 
 ---
