@@ -26,8 +26,7 @@
 <div style="text-align: justify"> Sure, you could glance at my resume and see the technical experience and relevant work I have done, but a single page cannot fully capture my enthusiasm, excitement, and dedication to data-driven work. As you read through my portfolio, I hope you begin to understand me, and how my rather untraditional path of education makes me an excellent candidate for a data-related internship or role. </div>
 <br>
 <div style="text-align: justify">Currently, I am seeking <b>internships for Summer 2025</b> (or full-time positions) at a company where I can apply my skills to <b>make a difference</b>. I am excited about any oppertunity to learn, contribute, and grow through data. </div>
-
-
+<br>
 
 ---
 ## Projects
