@@ -142,11 +142,15 @@ Data Analysis and Insights
 
 
 Data Visualization
-- Create dashboards using <b>Tableau</b>
+- Create dashboards using <b>Tableau</b>.
+
+
+UI/UX Design
+- <b>Figma</b> for visual creation of websites, apps, and products.
 
 
 Predictive Analysis
-- Apply regressions, clustering, stepwise modeling to forecast trends and outcomes
+- Apply regressions, clustering, stepwise modeling to forecast trends and outcomes.
 
 
 Risk Analysis
