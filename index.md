@@ -110,15 +110,6 @@
 M.S., Applied Analytics
 - GPA: 4.0
 
-<b><u>Relevant Coursework:</u></b> 
-- <b>Applied Analytics in an Organizational Context:</b> Excel...
-- <b>Research Design:</b> R... simulation studies... designing a study...
-- <b>Storytelling with Data:</b> Data visualization... explaining the data...
-- <b>Applied Analytics Frameworks & Methods I and II:</b> R... Python... SQL... 
-- <b>Strategy and Analytics:</b> 
-- <b>Managing Data:</b> Python... SQL... structured, semi-structured, and unstructured data...
-- <b>AI User Interfaces for Analytics:</b> Java.. Figma... 
-
 
 ### University of Rochester
 B.S., Brain & Cognitive Sciences (Concentration: Artificial Intelligence and Machine Learning)
@@ -138,22 +129,27 @@ Minor, Bioethics
 ### Technical Skills
 Data Engineering and Management
 - Work with <b>SQL</b> and <b>NoSQL</b> databases (e.g., MongoDB, Cassandra) for structured and unstructured data storage and retrieval
-- Design efficient data pipelines for processing large datasets
-- Utilize Apache Spark for distributed computing and big data analytics
+- Design efficient data pipelines for processing large datasets.
+- Utilize <b>Apache Spark</b> for distributed computing and big data analytics
+
+
 
 Data Analysis and Insights
 - <b>R, SQL,</b> and <b>Python</b> to uncover trends for strategic decision making
 - Implement data structures such as arrays, stacks, queues, and hash tables for optimized data processing
 - Work with Pandas and DataFrames in <b>Python</b> for structured data manipulation
-- <b>MATLAB</b>...
-- 
+
+
 
 Data Visualization
 - Create dashboards using <b>Tableau</b>.
 - Work with <b>Python</b> visualization libraries (e.g., Matplotlib, Seaborn) for data storytelling.
 
+
+
 UI/UX Design
 - <b>Figma</b> for visual creation of websites, apps, and products.
+
 
 
 Predictive Analysis
