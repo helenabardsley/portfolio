@@ -136,21 +136,28 @@ Minor, Bioethics
 ## Skills
 ---
 ### Technical Skills
+Data Engineering and Management
+- Work with <b>SQL</b> and <b>NoSQL</b> databases (e.g., MongoDB, Cassandra) for structured and unstructured data storage and retrieval
+- Design efficient data pipelines for processing large datasets
+- Utilize Apache Spark for distributed computing and big data analytics
+
 Data Analysis and Insights
 - <b>R, SQL,</b> and <b>Python</b> to uncover trends for strategic decision making
+- Implement data structures such as arrays, stacks, queues, and hash tables for optimized data processing
+- Work with Pandas and DataFrames in <b>Python</b> for structured data manipulation
 - <b>MATLAB</b>...
-
+- 
 
 Data Visualization
 - Create dashboards using <b>Tableau</b>.
-
+- Work with <b>Python</b> visualization libraries (e.g., Matplotlib, Seaborn) for data storytelling.
 
 UI/UX Design
 - <b>Figma</b> for visual creation of websites, apps, and products.
 
 
 Predictive Analysis
-- Apply regressions, clustering, stepwise modeling to forecast trends and outcomes.
+- Apply <b>regressions, clustering,</b> and <b>stepwise modeling</b> to forecast trends and outcomes.
 
 
 Risk Analysis
