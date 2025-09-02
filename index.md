@@ -22,14 +22,14 @@
 ## Projects
 ---
 ### Distance-Revenue Dynamics: Optimizing Trip Metrics in NYC Yellow Cabs
-<div style="text-align: justify"> In a transportation landscape dominated by algorithm-driven rideshare apps, NYC’s traditional taxi drivers face increasing challenges to remain competitive. The goal of our project was to empower these drivers with data intelligence, sourced via the NYC Open Data API, that had previously been out of reach.
-
-To achieve this, I helped build a scalable <b>ETL pipeline</b> that processed over 22 million taxi trip records (2.13 GB) using <b>PostgreSQL, Apache Spark</b>, and <b>Python</b>, enabling us to analyze distance-revenue dynamics in a market where rideshare services account for 83% of trips.
-
-I also developed a <b>polynomial regression model</b> that identified the optimal trip distance as 20.51 miles, corresponding to a maximum revenue of $85.47. More importantly, the analysis revealed that 5–10 mile trips offer the most sustainable revenue-to-frequency ratio—a critical insight for maximizing earnings.
-
-Lastly, I collaborated with a teammate to build an interactive <b>Streamlit</b> dashboard to visualize tipping behavior and geographic revenue trends, uncovering peak tipping around 2 AM and highlighting Manhattan ($245.2M) and JFK Airport ($58.25M) as dominant revenue zones.</div>
-  
+<div style="text-align: justify"> In a transportation landscape dominated by algorithm-driven rideshare apps, NYC’s traditional taxi drivers face increasing challenges to remain competitive. The goal of our project was to empower these drivers with data intelligence, sourced via the NYC Open Data API, that had previously been out of reach.</div>
+<br>
+<div style="text-align: justify">To achieve this, I helped build a scalable <b>ETL pipeline</b> that processed over 22 million taxi trip records (2.13 GB) using <b>PostgreSQL, Apache Spark</b>, and <b>Python</b>, enabling us to analyze distance-revenue dynamics in a market where rideshare services account for 83% of trips.</div>
+<br>
+<div style="text-align: justify">I also developed a <b>polynomial regression model</b> that identified the optimal trip distance as 20.51 miles, corresponding to a maximum revenue of $85.47. More importantly, the analysis revealed that 5–10 mile trips offer the most sustainable revenue-to-frequency ratio—a critical insight for maximizing earnings.</div>
+<br>
+<div style="text-align: justify">Lastly, I collaborated with a teammate to build an interactive <b>Streamlit</b> dashboard to visualize tipping behavior and geographic revenue trends, uncovering peak tipping around 2 AM and highlighting Manhattan ($245.2M) and JFK Airport ($58.25M) as dominant revenue zones.</div>
+<br>
 ### Kaggle Competition: Predict Click-Through Rate (CTR) using Lasso, Ridge, XGBoost and LightGBM
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](Projects/PAC%20Project%20Report.html)
 
