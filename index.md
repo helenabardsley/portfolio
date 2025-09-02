@@ -39,6 +39,9 @@
 <br>
 
 ### TripMates: A Personalized Group Travel Website (May 2025)
+<div style="text-align: justify">Although there are plenty of travel websites out there, we have not yet seen a website made for coordinagting group travel, including budgeting, picking a place, collaborative planning. My group and I decided to create a website for group travel that would enable groups to do this AI User Interfaces for Analytics. I was in charge of doing the front end, where I utilized <b>HTML/CSS</b> and <b>react.js in javascript</b>
+<br>
+<div style="text-align: justify">I was responsible for building the front end, where I used <b>HTML/CSS</b> and <b>React.js (JavaScript)</b> to develop a clean, intuitive user interface. I also helped integrate the front end with our custom <b>Node.js backend</b>, ensuring smooth trip creation and real-time data handling with our <b>MongoDB</b> database using <b>Mongoose</b> for schema modeling and data validation.</div>
 
 ### 5200 (May 2025)
 
