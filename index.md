@@ -21,7 +21,7 @@
 ---
 ## Projects
 ---
-### Distance-Revenue Dynamics: Optimizing Trip Metrics in NYC Yellow Cabs
+### Distance-Revenue Dynamics: Optimizing Trip Metrics in NYC Yellow Cabs (May 2025)
 <div style="text-align: justify"> In a transportation landscape dominated by algorithm-driven rideshare apps, NYC’s traditional taxi drivers face increasing challenges to remain competitive. The goal of our project was to empower these drivers with data intelligence, sourced via the NYC Open Data API, that had previously been out of reach.</div>
 <br>
 <div style="text-align: justify">To achieve this, I helped build a scalable <b>ETL pipeline</b> that processed over 22 million taxi trip records (2.13 GB) using <b>PostgreSQL, Apache Spark</b>, and <b>Python</b>, enabling us to analyze distance-revenue dynamics in a market where rideshare services account for 83% of trips.</div>
@@ -29,6 +29,7 @@
 <div style="text-align: justify">I also developed a <b>polynomial regression model</b> that identified the optimal trip distance as 20.51 miles, corresponding to a maximum revenue of $85.47. More importantly, the analysis revealed that 5–10 mile trips offer the most sustainable revenue-to-frequency ratio, a critical insight for maximizing earnings.</div>
 <br>
 <div style="text-align: justify">Lastly, I collaborated with a teammate to build an interactive <b>Streamlit</b> dashboard to visualize tipping behavior and geographic revenue trends, uncovering peak tipping around 2 AM and highlighting Manhattan ($245.2M) and JFK Airport ($58.25M) as dominant revenue zones.</div>
+<br>
 <center>
   <video controls muted loop playsinline style="max-width:100%;height:auto;">
     <source src="images/Taxi_Streamlit_Demo.mp4" type="video/mp4">
@@ -36,7 +37,12 @@
   </video>
 </center>
 <br>
-### Kaggle Competition: Predict Click-Through Rate (CTR) using Lasso, Ridge, XGBoost and LightGBM
+
+### TripMates: A Personalized Group Travel Website (May 2025)
+
+### 5200 (May 2025)
+
+### Kaggle Competition: Predict Click-Through Rate (CTR) using Lasso, Ridge, XGBoost and LightGBM (December 2025)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](Projects/PAC%20Project%20Report.html)
 
 
@@ -45,7 +51,7 @@
 <center><img src="images/Kaggle_logo.png"/></center>
 <br>
 
-### Peloton's Post-Pandemic Pivot: A Strategic Analysis of Growth, Retention, and Market Position
+### Peloton's Post-Pandemic Pivot: A Strategic Analysis of Growth, Retention, and Market Position (December 2025)
 [![View on Tableau](https://img.shields.io/badge/GitHub-View_on_Tableau-blue?logo=Tableau)](Projects/Peloton.twbx)
 [![View on Microsoft Powerpoint](https://img.shields.io/badge/GitHub-View_on_Powerpoint-blue?logo=Powerpoint)](images/Peloton.pptx)
 <div style="text-align: justify">In this project, my team and I conducted a strategic analysis of growth, retention, and market position for Peloton, investigating the factors leading to their company's decline in revenue post-COVID-19.</div>
@@ -62,7 +68,7 @@
 <div style="text-align: justify"><u>Quick Overview:</u> Since the COVID-19 pandemic, Peloton has seen a tremendous drop in their annual revenue. Working with a team, we leveraged <b>competitor analysis, customer analysis, </b> and <b>market insights</b> to identify growth oppertunities for Peloton in these post-pandemic times. We made an <b>interactive tableau storyboard</b> to effectively present our project. </div>
 <br>
 
-### The Impact of Live-Stream Shopping on Large Fashion Brands: A Case Study at Zara
+### The Impact of Live-Stream Shopping on Large Fashion Brands: A Case Study at Zara (December 2025)
 <div style="text-align: justify"> My team and I explored live-stream shopping as a strategy for Zara, a global fashion brand known for its physical presence, but their website's user interface (UI) has been often criticized in the media for its poor usability, lack of navigational aids, and confusing layout. Inspired by the success of small businesses on TikTok Shop, we investigated if live-stream shopping could address Zara’s usability challenges and improve sales, customer engagement, and purchase volume. </div>
 <br>
 <div style="text-align: justify">Live-stream shopping bridges the gap between physical and digital retail, allowing customers to interact with employees from home. Additionally, humans are visual creatures, and we perceive our environment best with motion. Clearer product demonstrations through live-stream may reduce return rates, lowering CO2 emissions and packaging waste, driving sustainability. Looking ahead, live-stream shopping could enable advanced innovations like AI-powered virtual try-ons, transforming the online shopping experience. And if successful, this could position Zara as a leader in retail innovation, setting new industry standards.</div>
@@ -75,7 +81,7 @@
 <br>
 
 
-### Multilingual Differences in Speech Perception and Word Learning
+### Multilingual Differences in Speech Perception and Word Learning (August 2023)
 <div style="text-align: justify"> During the summer of 2023, I worked with my Principal Investigator and 3 time former professor, Dr. Yang, on a project exploring speech perception and word learning differences among multilingual participants. My primary responsibilities included fitting participants with EEG caps to monitor brain activity during speech perception tests, and <b>processed the data</b> using <b>MATLAB</b>. Specifically, I <b>filtered</b> out irrelevant signals from the EEG data to isolate relevant brain signals and identified and removed artifact-ridden epochs, ensuring the accuracy and reliability of our data. Additionally, I conducted independent component analysis to separate and analyze the brain activity components further. </div>
 <br>
 <center><img src="images/yanglab.png"/></center>
@@ -83,7 +89,7 @@
 
 
 
-### Investigating Visual Deficits in Schizophrenia Patients
+### Investigating Visual Deficits in Schizophrenia Patients (August 2022)
 [![View on Project Website](https://img.shields.io/badge/GitHub-View_on_Website-blue?logo=Website)](https://www.urmc.rochester.edu/labs/keane)
 <div style="text-align: justify">I contributed to a research project investigating the role of eye movements alone in detecting schizophrenia. Under the guidance of my Principal Investigator (PI), who hypothesized that schizophrenic patients' visual perception deficits could lead to a new schizophrenia detection methodology, we reviewed existing scientific evidence on these deficits and developed a simple visual detection task to test this hypothesis. Our study included a variety of healthy, bipolar, and schizophrenic patients, and my role was to analyze the data from their performances on a carefully designed visual detection task, and compare performances amongst groups. </div>
 <br>
